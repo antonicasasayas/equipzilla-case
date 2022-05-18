@@ -15,3 +15,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+canvas {
+
+  width: 1000px !important;
+  height: 600px !important;
+
+}
